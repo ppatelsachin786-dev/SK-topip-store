@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport"
+        content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#080b12">
+
+  <title>SK Topup Store | Nepal Gaming & Digital Top-ups</title>
+
+  <style>
+    :root {
+      --bg: #080b12;
+      --panel: #111827;
+      --red: #ff344f;
+      --gold: #f4d49a;
+      --green: #6cdb92;
+      --white: #f7f9ff;
+    }
+
+    body {
+      margin: 0;
+      background: var(--bg);
+      color: var(--white);
+      font-family: Arial, sans-serif;
+    }
+
+    html {
+      scroll-behavior: smooth;
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Yahan website ka header, products,
+       packages, prices aur order form aayega -->
+
+  <script>
+    // Yahan product selection aur ID format checking
+    // ka JavaScript code aayega.
+  </script>
+
+</body>
+</html>
